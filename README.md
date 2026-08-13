@@ -1,2 +1,2 @@
 # Prime_Demo
-Demo for Git
+Demo for Git.
